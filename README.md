@@ -23,12 +23,20 @@
 ---
 
 ## Template Preview(模板预览) ##
+- English Blue/RBG Template(英语蓝色/三色模板)
+
+![English Blue Template](https://github.com/ninja33/anki-templates/blob/master/images/template-english-01.jpg?raw=true)
+![English RGB Template](https://github.com/ninja33/anki-templates/blob/master/images/template-english-03.jpg?raw=true)
+
 - English Vocabulary.com Template(英语vocab配色模板)
 
-![vocab template](https://github.com/ninja33/anki-templates/blob/master/images/template-english-02.jpg?raw=true)
+![English Vocabulary.com Template](https://github.com/ninja33/anki-templates/blob/master/images/template-english-02.jpg?raw=true)
 
 - English Anki Dict Helper Template(英语Anki划词助手模板)
 
-![dict helper template](https://github.com/ninja33/anki-templates/blob/master/images/template-dict-helper-01.jpg?raw=true)
-![dict helper template](https://github.com/ninja33/anki-templates/blob/master/images/template-dict-helper-02.jpg?raw=true)
+![English Dict Helper Template](https://github.com/ninja33/anki-templates/blob/master/images/template-dict-helper-01.jpg?raw=true)
+![English Dict Helper Template](https://github.com/ninja33/anki-templates/blob/master/images/template-dict-helper-02.jpg?raw=true)
 
+- Chinese Zdict Template(汉语汉典模板)
+
+![Chinese Zdict Template](https://github.com/ninja33/anki-templates/blob/master/images/template-chinese-01.jpg?raw=true)
