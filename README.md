@@ -1,22 +1,24 @@
 # Anki Templates #
-4 pre-built anki note templates, including 3 English templates & 1 Chinese template.
+5 pre-built anki note templates, including 4 English templates & 1 Chinese template.
 
 - English Template
   - BLue Color
   - RGB 3 Colors
-  - Vocab Template
+  - vocabulary.com Template
+  - Dict Helper Template
 - Chinese Template
   - Zdict Chinese Template
 
 ---
 
 # Anki 笔记/卡片模板 #
-4套用于Anki学习使用的预定义模板，含三套英语模板和一套汉语汉典模板
+5套用于Anki学习使用的预定义模板，含4套英语模板和1套汉语汉典模板
 
 - 英语模板
   - 蓝色模板
   - 三色模板
   - vocabulary.com模板
+  - 划词制卡助手模板
 - 汉语模板
   - 汉语汉典模板
 
