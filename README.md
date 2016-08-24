@@ -23,15 +23,12 @@
 ---
 
 ## Template Preview(模板预览) ##
-- Template Fields(区域字段)
+- English Vocabulary.com Template(英语vocab配色模板)
 
-![Template Fields](https://github.com/ninja33/anki-templates/blob/master/images/template01.jpg?raw=true)
+![vocab template](https://github.com/ninja33/anki-templates/blob/master/images/template-english-02.jpg?raw=true)
 
-- Template Screenshot(模板外观)
+- English Anki Dict Helper Template(英语Anki划词助手模板)
 
-![Template Screenshot](https://github.com/ninja33/anki-templates/blob/master/images/template02.jpg?raw=true)
-
-- Notes Screenshot(笔记类型)
-
-![Notes Screenshot](https://github.com/ninja33/anki-templates/blob/master/images/template03.jpg?raw=true)
+![dict helper template](https://github.com/ninja33/anki-templates/blob/master/images/template-dict-helper-01.jpg?raw=true)
+![dict helper template](https://github.com/ninja33/anki-templates/blob/master/images/template-dict-helper-02.jpg?raw=true)
 
