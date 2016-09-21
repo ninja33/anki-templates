@@ -97,14 +97,14 @@ QQ群：25091023
 
 /*正面字段样式*/
 #front{
-  font-size  : 20px;       /*字体大小-20px*/
+  font-size  : 24px;       /*字体大小-24px*/
   color      : #000;       /*字体颜色-黑色*/
   text-align : left;       /*文本对齐-居左*/
 }
 
 /*背面字段样式*/
 #back{
-  font-size  : 20px;       /*字体大小-20px*/
+  font-size  : 16px;       /*字体大小-16px*/
   color      : #0000ff;    /*字体颜色-蓝色*/
   text-align : left;       /*文本对齐-居左*/
 }
@@ -199,7 +199,7 @@ var colorMap = {
   div.innerHTML = div.innerHTML
   .replace(/\b[a-z]+\./g, function(symbol) {
     if(colorMap[symbol]) {
-      return '<a style="background-color:' + colorMap[symbol] + '">'+
+      return '<a style="background-color:' + colorMap[symbol] + ';border-radius: 4px; color:white; padding:0 3px;margin-right:5px">'+
       symbol + '</a>';
     }else{
       return symbol;
