@@ -1,0 +1,68 @@
+总体参数:
+{word}: 待查的单词
+
+## Youdao(有道)
+音频地址:
+http://dict.youdao.com/dictvoice?audio={word}&type={type}
+参数:
+{type}: '1': English, British 
+        '2': English, American
+        '3': English, alternative
+
+释义地址1:
+http://dict.youdao.com/fsearch?le={type}&q={word}
+参数:
+{type}: 'eng': English, American
+        'fr' : French
+        'jap': Japanese
+        'ko' : Korea
+
+释义地址2:
+http://m.youdao.com/dict?le={type}&q={word}
+参数:
+{type}: 'eng': English, American
+        'fr' : French
+        'jap': Japanese
+        'ko' : Korea
+
+## Baidu(百度)
+音频地址:
+http://tts.baidu.com/text2audio?text={word}&lan={type}&ie=UTF-8
+参数:
+{type}: 'en': English, American
+        'jp': Japanese"
+        'pt': Portuguese"
+        'th': Thai"
+        'uk': English, British
+        'zh': Chinese
+        
+## BaiCiZhan(百词斩)
+音频地址:
+http://baicizhan.qiniucdn.com/word_audios/{word}.mp3
+
+释义地址:
+http://mall.baicizhan.com/ws/search?w={word}
+
+## Eudic(欧路)
+释义地址:
+fr: http://www.frdic.com/FullMiniDictsSearch/fr/?word={word}
+de: http://www.godic.net/FullMiniDictsSearch/de/?word={word}
+es: http://www.esdict.cn/FullMiniDictsSearch/es/?word={word}
+
+## dict.cn(海词)
+释义地址:
+http://m.dict.cn/{word}
+
+## Vocabulary.com
+释义地址:
+https://www.vocabulary.com/dictionary/definition.ajax?search={word}
+
+例句地址：
+https://corpus.vocabulary.com/api/1.0/examples.json?query={word}&maxResults={number}&startOffset={number}&domain={Type}&filter=0
+{number}: 数字。用于设定返回例句数量，或者例句偏移量
+参数:
+{type}: 字母，用于设定例句内容的领域
+        'N': 新闻
+        'T': 技术
+        'B': 商业
+        'F': 小说
