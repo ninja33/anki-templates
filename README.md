@@ -37,6 +37,8 @@ This is Anki dynamic configurable note template(facebook color style) with below
 - Display hint section and show version update information at head section
 ![](https://raw.githubusercontent.com/ninja33/anki-templates/master/dynamic/images/sample_005.jpg)
 
+
+This Template was inspired by [ecator](https://github.com/ecator/anki-theme-basic-baidu-jp-en)
 ---
 
 # Anki Static Templates #
@@ -68,18 +70,18 @@ This is Anki dynamic configurable note template(facebook color style) with below
 ## Template Preview(Ä£°åÔ¤ÀÀ) ##
 - English Blue/RBG Template(Ó¢ÓïÀ¶É«/ÈıÉ«Ä£°å)
 
-![English Blue Template](https://github.com/ninja33/anki-templates/blob/master/static/images/template-english-01.jpg?raw=true)
-![English RGB Template](https://github.com/ninja33/anki-templates/blob/master/static/images/template-english-03.jpg?raw=true)
+![English Blue Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-english-01.jpg)
+![English RGB Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-english-03.jpg)
 
 - English Vocabulary.com Template(Ó¢ÓïvocabÅäÉ«Ä£°å)
 
-![English Vocabulary.com Template](https://github.com/ninja33/anki-templates/blob/master/static/images/template-english-02.jpg?raw=true)
+![English Vocabulary.com Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-english-02.jpg)
 
 - English Anki Dict Helper Template(Ó¢ÓïAnki»®´ÊÖúÊÖÄ£°å)
 
-![English Dict Helper Template](https://github.com/ninja33/anki-templates/blob/master/static/images/template-dict-helper-01.jpg?raw=true)
-![English Dict Helper Template](https://github.com/ninja33/anki-templates/blob/master/static/images/template-dict-helper-02.jpg?raw=true)
+![English Dict Helper Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-dict-helper-01.jpg)
+![English Dict Helper Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-dict-helper-02.jpg)
 
 - Chinese Zdict Template(ººÓïººµäÄ£°å)
 
-![Chinese Zdict Template](https://github.com/ninja33/anki-templates/blob/master/images/static/template-chinese-01.jpg?raw=true)
+![Chinese Zdict Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-chinese-01.jpg)
