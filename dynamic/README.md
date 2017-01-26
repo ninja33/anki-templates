@@ -35,6 +35,6 @@ This is Anki dynamic configurable note template(facebook color style) with below
 ![](https://raw.githubusercontent.com/ninja33/anki-templates/master/dynamic/images/sample_004.jpg)
 
 - Display hint section and show version update information at head section
-![](https://raw.githubusercontent.com/ninja33/anki-templates/master/dynamic/images/sample_005.jpg)
+![](https://raw.githubusercontent.com/ninja33/anki-templates/master/dynamic/images/sample_002.jpg)
 
 This Template was inspired by [ecator](https://github.com/ecator/anki-theme-basic-baidu-jp-en)
