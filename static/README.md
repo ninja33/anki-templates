@@ -1,5 +1,5 @@
-# Anki Templates #
-5 pre-built anki note templates, including 4 English templates & 1 Chinese template.
+# Anki Static Templates #
+5 pre-built anki static templates(CSS), including 4 English templates & 1 Chinese template.
 
 - English Template
   - BLue Color
@@ -12,7 +12,7 @@
 ---
 
 # Anki 笔记/卡片模板 #
-5套用于Anki学习使用的预定义模板，含4套英语模板和1套汉语汉典模板
+5套用于Anki学习使用的预定义模板(CSS)，含4套英语模板和1套汉语汉典模板
 
 - 英语模板
   - 蓝色模板
