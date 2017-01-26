@@ -39,6 +39,7 @@ This is Anki dynamic configurable note template(facebook color style) with below
 
 
 This Template was inspired by [ecator](https://github.com/ecator/anki-theme-basic-baidu-jp-en)
+
 ---
 
 # Anki Static Templates #
@@ -54,34 +55,34 @@ This Template was inspired by [ecator](https://github.com/ecator/anki-theme-basi
 
 ---
 
-# Anki ±Ê¼Ç/¿¨Æ¬Ä£°å #
-5Ì×ÓÃÓÚAnkiÑ§Ï°Ê¹ÓÃµÄÔ¤¶¨ÒåÄ£°å(CSS)£¬º¬4Ì×Ó¢ÓïÄ£°åºÍ1Ì×ººÓïººµäÄ£°å
+# Anki ç¬”è®°/å¡ç‰‡æ¨¡æ¿ #
+5å¥—ç”¨äºAnkiå­¦ä¹ ä½¿ç”¨çš„é¢„å®šä¹‰æ¨¡æ¿(CSS)ï¼Œå«4å¥—è‹±è¯­æ¨¡æ¿å’Œ1å¥—æ±‰è¯­æ±‰å…¸æ¨¡æ¿
 
-- Ó¢ÓïÄ£°å
-  - À¶É«Ä£°å
-  - ÈıÉ«Ä£°å
-  - vocabulary.comÄ£°å
-  - »®´ÊÖÆ¿¨ÖúÊÖÄ£°å
-- ººÓïÄ£°å
-  - ººÓïººµäÄ£°å
+- è‹±è¯­æ¨¡æ¿
+  - è“è‰²æ¨¡æ¿
+  - ä¸‰è‰²æ¨¡æ¿
+  - vocabulary.comæ¨¡æ¿
+  - åˆ’è¯åˆ¶å¡åŠ©æ‰‹æ¨¡æ¿
+- æ±‰è¯­æ¨¡æ¿
+  - æ±‰è¯­æ±‰å…¸æ¨¡æ¿
 
 ---
 
-## Template Preview(Ä£°åÔ¤ÀÀ) ##
-- English Blue/RBG Template(Ó¢ÓïÀ¶É«/ÈıÉ«Ä£°å)
+## Template Preview(æ¨¡æ¿é¢„è§ˆ) ##
+- English Blue/RBG Template(è‹±è¯­è“è‰²/ä¸‰è‰²æ¨¡æ¿)
 
 ![English Blue Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-english-01.jpg)
 ![English RGB Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-english-03.jpg)
 
-- English Vocabulary.com Template(Ó¢ÓïvocabÅäÉ«Ä£°å)
+- English Vocabulary.com Template(è‹±è¯­vocabé…è‰²æ¨¡æ¿)
 
 ![English Vocabulary.com Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-english-02.jpg)
 
-- English Anki Dict Helper Template(Ó¢ÓïAnki»®´ÊÖúÊÖÄ£°å)
+- English Anki Dict Helper Template(è‹±è¯­Ankiåˆ’è¯åŠ©æ‰‹æ¨¡æ¿)
 
 ![English Dict Helper Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-dict-helper-01.jpg)
 ![English Dict Helper Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-dict-helper-02.jpg)
 
-- Chinese Zdict Template(ººÓïººµäÄ£°å)
+- Chinese Zdict Template(æ±‰è¯­æ±‰å…¸æ¨¡æ¿)
 
 ![Chinese Zdict Template](https://github.com/ninja33/anki-templates/raw/master/static/images/template-chinese-01.jpg)
