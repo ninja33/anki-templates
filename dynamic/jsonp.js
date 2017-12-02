@@ -1,1 +1,1 @@
-loadRemote({version:"2.0"})
+loadRemote({version:"1.0"})
